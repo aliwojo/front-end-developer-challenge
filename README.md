@@ -19,12 +19,12 @@ Welcome to my version of the TitanStar Legends Rune Mastery Loadout Talent Calcu
 - Responsive display shows total points spent
 - Talent levels must be selected or deselected in order
 - While using a mouse:
-  - select with left click
-  - deselect with right click
+  - Selecting is done with left click
+  - Deselecting is done with right click
   - Hovering over a talent path highlights the progess bar leading to the next level,
     but only if points are available
 - With a touch screen:
-  - selecting and deselecting are both done by touching an appropriate level
+  - Selecting and deselecting are both done by touching an appropriate level
   - First touch selects
   - Second touch deselects
 - Responsive design includes a vertical mode for thin views
